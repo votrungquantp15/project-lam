@@ -3,11 +3,7 @@ html {
   margin: 0;
   padding: 0;
 }
-body {
-  background-image: url(https://regenpower.com/wp-content/uploads/2021/06/renewable-energy.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 .logo {
   border-radius: 50%;
 }
